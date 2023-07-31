@@ -2222,7 +2222,7 @@ Below are the Visual Studio Code default settings and their values. You can also
     "keyboard.dispatch": "code",
 
     // Controls if the AltGraph+ modifier should be treated as Ctrl+Alt+.
-    "keyboard.mapAltGrToCtrlAlt": false,
+    "keyboard.ltGrToCtrlAlt": false,
 
     // Enables the macOS touchbar buttons on the keyboard if available.
     "keyboard.touchbar.enabled": true,
