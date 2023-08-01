@@ -24,5 +24,6 @@
     },
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": true
-    }
+    },
+    "editor.linkedEditing": true
 }
